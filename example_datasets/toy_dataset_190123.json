@@ -1,0 +1,285 @@
+{
+ "name": "trial_group",
+ "type": "private_group",
+ "id": 12345,
+ "messages": [
+  {
+   "id": 188891,
+   "type": "service",
+   "date": "2022-12-20T16:54:19",
+   "date_unixtime": "1671576859",
+   "actor": "John Doe",
+   "actor_id": "john12345",
+   "action": "create_group",
+   "title": "trial_group",
+   "members": [
+    "John Doe",
+    "Rey Skywalker"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 188897,
+   "type": "service",
+   "date": "2022-12-20T16:55:55",
+   "date_unixtime": "1671576955",
+   "actor": "John Doe",
+   "actor_id": "john12345",
+   "action": "invite_members",
+   "members": [
+    "Data Collection bot"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 192170,
+   "type": "message",
+   "date": "2023-01-19T11:58:10",
+   "date_unixtime": "1674151090",
+   "from": "John Doe",
+   "from_id": "john12345",
+   "text": "message 1 from John",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "message 1 from John"
+    }
+   ]
+  },
+  {
+   "id": 192171,
+   "type": "message",
+   "date": "2023-01-19T11:58:13",
+   "date_unixtime": "1674151093",
+   "from": "John Doe",
+   "from_id": "john12345",
+   "text": "message 2 from John",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "message 2 from John"
+    }
+   ]
+  },
+  {
+   "id": 192172,
+   "type": "message",
+   "date": "2023-01-19T11:58:25",
+   "date_unixtime": "1674151105",
+   "from": "John Doe",
+   "from_id": "john12345",
+   "reply_to_message_id": 192170,
+   "text": "reply to my msg \"message 1\"",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "reply to my msg \"message 1\""
+    }
+   ]
+  },
+  {
+   "id": 192173,
+   "type": "message",
+   "date": "2023-01-19T11:58:36",
+   "date_unixtime": "1674151116",
+   "from": "Rey Skywalker",
+   "from_id": "rey123",
+   "text": "message 1 from Rey",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "message 1 from Rey"
+    }
+   ]
+  },
+  {
+   "id": 192175,
+   "type": "message",
+   "date": "2023-01-19T11:59:12",
+   "date_unixtime": "1674151152",
+   "from": "Rey Skywalker",
+   "from_id": "rey123",
+   "reply_to_message_id": 192171,
+   "text": "reply to John's msg \"message 2\"",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "reply to John's msg \"message 2\""
+    }
+   ]
+  },
+  {
+   "id": 192176,
+   "type": "message",
+   "date": "2023-01-19T11:59:17",
+   "date_unixtime": "1674151157",
+   "from": "Rey Skywalker",
+   "from_id": "rey123",
+   "reply_to_message_id": 192172,
+   "text": "hi!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "hi!"
+    }
+   ]
+  },
+  {
+   "id": 192177,
+   "type": "message",
+   "date": "2023-01-19T11:59:22",
+   "date_unixtime": "1674151162",
+   "from": "Rey Skywalker",
+   "from_id": "rey123",
+   "text": [
+    "hello ",
+    {
+     "type": "mention",
+     "text": "@johndoe92"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "hello "
+    },
+    {
+     "type": "mention",
+     "text": "@johndoe92"
+    }
+   ]
+  },
+  {
+   "id": 192178,
+   "type": "message",
+   "date": "2023-01-19T11:59:26",
+   "date_unixtime": "1674151166",
+   "from": "Rey Skywalker",
+   "from_id": "rey123",
+   "text": "How are you?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "How are you?"
+    }
+   ]
+  },
+  {
+   "id": 192179,
+   "type": "message",
+   "date": "2023-01-19T11:59:43",
+   "date_unixtime": "1674151183",
+   "from": "John Doe",
+   "from_id": "john12345",
+   "text": [
+    "I'm fine ",
+    {
+     "type": "mention",
+     "text": "@ReySky"
+    },
+    " , how are you?"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I'm fine "
+    },
+    {
+     "type": "mention",
+     "text": "@ReySky"
+    },
+    {
+     "type": "plain",
+     "text": " , how are you?"
+    }
+   ]
+  },
+  {
+   "id": 192182,
+   "type": "message",
+   "date": "2023-01-19T12:00:46",
+   "date_unixtime": "1674151246",
+   "from": "John Doe",
+   "from_id": "john12345",
+   "text": [
+    "check out this video: ",
+    {
+     "type": "link",
+     "text": "https://www.youtube.com/watch?v=5K0DyMpxpUk"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "check out this video: "
+    },
+    {
+     "type": "link",
+     "text": "https://www.youtube.com/watch?v=5K0DyMpxpUk"
+    }
+   ]
+  },
+  {
+   "id": 192183,
+   "type": "message",
+   "date": "2023-01-19T12:01:08",
+   "date_unixtime": "1674151268",
+   "from": "John Doe",
+   "from_id": "john12345",
+   "text": [
+    "check out this song: ",
+    {
+     "type": "link",
+     "text": "https://open.spotify.com"
+    },
+    " it's really good, don't you think ",
+    {
+     "type": "mention",
+     "text": "@ReySky"
+    },
+    " ?"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "check out this song: "
+    },
+    {
+     "type": "link",
+     "text": "https://open.spotify.com"
+    },
+    {
+     "type": "plain",
+     "text": " it's really good, don't you think "
+    },
+    {
+     "type": "mention",
+     "text": "@ReySky"
+    },
+    {
+     "type": "plain",
+     "text": " ?"
+    }
+   ]
+  },
+  {
+   "id": 192184,
+   "type": "message",
+   "date": "2023-01-19T12:01:54",
+   "date_unixtime": "1674151314",
+   "edited": "2023-01-19T12:02:10",
+   "edited_unixtime": "1674151330",
+   "from": "John Doe",
+   "from_id": "john12345",
+   "text": "original message, but with edited info added later",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "original message, but with edited info added later"
+    }
+   ]
+  }
+ ]
+}

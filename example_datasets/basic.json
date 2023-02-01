@@ -1,0 +1,17 @@
+{
+	"information": "a json file about people and their habits",
+	"author": "unknown", 
+	"people": [
+		{
+			"full name": "John Doe",
+			"age": 15,
+			"favourite book": "Harry Potter",
+			"pet": "Cat"
+		},
+		{
+			"full name": "Jane Dane",
+			"age": 21,
+			"favourite drinks": ["rootbeer", "red wine", "vodka"]
+		}
+	]
+}

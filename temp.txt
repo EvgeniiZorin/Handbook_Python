@@ -1,0 +1,23 @@
+<h3 class="fc-item__title"><a class="fc-item__link" data-link-name="article" href="https://www.theguardian.com/world/2023/jan/01/nine-killed-in-new-years-eve-crush-in-kampala-uganda"> <span class="u-faux-block-link__cta fc-item__headline"> <span class="js-headline-text">Nine killed in New Year’s Eve crush in Ugandan capital </span></span> </a></h3>
+</div>
+<div class="fc-item__standfirst-wrapper">
+<div class="fc-item__standfirst">
+             Survivor says pushing began after fireworks outside Freedom City shopping mall in Kampala
+            </div>
+<div class="fc-item__meta js-item__meta">
+</div>
+</div>
+</div>
+<a aria-hidden="true" class="u-faux-block-link__overlay js-headline-text" data-link-name="article" href="https://www.theguardian.com/world/2023/jan/01/nine-killed-in-new-years-eve-crush-in-kampala-uganda" tabindex="-1">Nine killed in New Year’s Eve crush in Ugandan capital </a>
+</div>
+</div> </li>
+<li class="fc-slice__item l-row__item l-row__item--span-1 u-faux-block-link">
+<div class="fc-item fc-item--has-image fc-item--pillar-news fc-item--type-article js-fc-item fc-item--list-media-mobile fc-item--standard-tablet js-snappable" data-id="uk-news/2022/dec/30/blair-government-misgivings-mandela-mediation-role-lockerbie-national-archives" data-item-visibility="all" data-link-name="news | group-0 | card-@2" data-loyalty-short-url="/p/nx89d" data-test-id="facia-card">
+<div class="fc-item__container">
+<div class="fc-item__media-wrapper">
+
+
+<h3 class="fc-item__title"><a class="fc-item__link" data-link-name="article" href="https://www.theguardian.com/uk-news/2022/dec/29/home-office-urged-to-reunite-eritrean-family-separated-as-they-boarded-boat"> <span class="u-faux-block-link__cta fc-item__headline"> <span class="js-headline-text">Home Office urged to reunite Eritrean family separated as they boarded boat</span></span> </a></h3>
+</div>
+<a aria-hidden="true" class="u-faux-block-link__overlay js-headline-text" data-link-name="article" href="https://www.theguardian.com/uk-news/2022/dec/29/home-office-urged-to-reunite-eritrean-family-separated-as-they-boarded-boat" tabindex="-1">Home Office urged to reunite Eritrean family separated as they boarded boat</a>
+</div>

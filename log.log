@@ -1,0 +1,7 @@
+2023-03-02 15:56:32,204::DEBUG::Add 5 + 10 = 15
+2023-03-02 15:56:32,204::INFO::the value of x is 2
+2023-03-02 15:56:32,204::ERROR::error is found
+Traceback (most recent call last):
+  File "C:\Users\evgen\Desktop\Handbook_Python\logging_practice.py", line 44, in <module>
+    1 / 0
+ZeroDivisionError: division by zero

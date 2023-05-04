@@ -30,7 +30,7 @@ logging.basicConfig(
     filemode='w',
     format="%(asctime)s::%(levelname)s::%(message)s",
     force=True ### In e.g. jupyter notebook, need this line to not restart the kernel if you delete the file 
-) # log at the level of DEBUG or above
+)
 
 def add(x, y):
     return x+y

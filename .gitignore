@@ -1,4 +1,34 @@
+### Ignore these files upon change tracking and version committing
 
+### Compiled files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints
+
+### Virtual environment
+venv
+env
+.venv
+.env
+
+### Scrap notebook
+checks.py
+checks.ipynb
+practice.py
+practice.ipynb
+temp.py
 temp.ipynb
 temp.txt
+<<<<<<< HEAD
 temp.py
+=======
+temp.csv
+
+### Private files
+mySecrets.py
+
+### Logging files
+# log.log
+info.log
+*.log
+>>>>>>> 9f74cdf9a4b8cf977e631f1271196311f6300f08

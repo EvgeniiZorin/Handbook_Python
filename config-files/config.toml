@@ -1,0 +1,23 @@
+# config file
+# toml doesn't have "None" / null datatype
+# can use single quotation ' or double quoation " marks"
+
+name = "My Project"
+version = "1.0.0"
+link = "https://example.com"
+
+[items]
+number = 5
+numbers = [1,2,3]
+letters = ['a', 'b', 'c']
+
+[items.details]
+# in toml, booleans are written in lowercase
+updated = true
+author = 'Maxim Struganoff'
+
+# you can also write dictionaries
+# although not recommended to keep your toml sweet and short
+[inline_table]
+inline = {name = "John", age = 10}
+

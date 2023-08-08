@@ -1,6 +1,8 @@
 {
 	"information": "a json file about people and their habits",
+	"integer": 5,
 	"author": "unknown", 
+	"dictionary": {"a":5, "b":"item of b"},
 	"people": [
 		{
 			"full name": "John Doe",

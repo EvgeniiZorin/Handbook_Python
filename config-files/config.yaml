@@ -1,0 +1,38 @@
+# comment here
+
+key: value
+
+# supported data types: string, int, float, boolean
+# also you can recreate list or dictionary
+# for string, can use or not use quotations around strings
+
+# strings
+name1: John Wayne
+name2: "John Wayne"
+name3: John 'The Bull' Wayne
+name4: "John 'The Bull' Wayne"
+number-str: "10"
+multiline-string:
+  Hello everyone!
+  This is a multiline string.
+# int
+number: 10
+# float
+float_number: 1.15
+# boolean
+boolean: true
+
+# list
+mylist:
+  - "Many 'values' here"
+  - Many values 'here'
+  - "item2"
+  - item3
+  - 5
+
+# dictionary
+mydict:
+  key1: value1
+  key2: value2
+  key3: 3
+

@@ -11,6 +11,7 @@ name1: John Wayne
 name2: "John Wayne"
 name3: John 'The Bull' Wayne
 name4: "John 'The Bull' Wayne"
+name5: John "The Bull" 'Wayne'
 number-str: "10"
 multiline-string:
   Hello everyone!
@@ -23,16 +24,21 @@ float_number: 1.15
 boolean: true
 
 # list
-mylist:
+### method 1: useful when you have lots of items
+mylist1:
   - "Many 'values' here"
   - Many values 'here'
   - "item2"
   - item3
   - 5
+### method 2: looks more pythonic, but the line can get very long when the list contains a lot of items
+mylist2: [1, 2, 3, 'a']
 
 # dictionary
-mydict:
+### method 1: useful when you have lots of items
+mydict1:
   key1: value1
   key2: value2
   key3: 3
-
+### method 2
+mydict2: {'a': 1, 'b': '2'}

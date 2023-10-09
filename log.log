@@ -1,8 +1,11 @@
-2023-05-03 14:11:51,116::WARNING::This is a warning!!!
-2023-05-03 14:11:51,116::ERROR::This is an error!
-2023-05-03 14:11:51,116::CRITICAL::this is a critical state!
-2023-05-03 14:11:51,116::ERROR::error is found
+2023-10-08 18:39:01,441::DEBUG::Add 5 + 10 = 15
+2023-10-08 18:39:01,442::INFO::The function is working as expected.
+2023-10-08 18:39:01,442::WARNING::This is a warning!!!
+2023-10-08 18:39:01,442::ERROR::This is an error!
+2023-10-08 18:39:01,442::CRITICAL::this is a critical state!
+2023-10-08 18:39:01,442::ERROR::error is found
 Traceback (most recent call last):
-  File "C:\Users\Data Science\Desktop\Handbook_Python\logging_practice.py", line 45, in <module>
+  File "C:\Users\evgen\Desktop\Handbook_Python\logging_practice.py", line 48, in <module>
     1 / 0
 ZeroDivisionError: division by zero
+2023-10-08 18:39:01,443::INFO::adsf

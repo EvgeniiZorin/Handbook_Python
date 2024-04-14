@@ -9,7 +9,7 @@
         "id": 2,
         "name": "Alice",
         "age": 30,
-        "gender": "F"
+        "gender": "Female / woman"
     },
     {
         "id": 3,
@@ -27,7 +27,7 @@
         "id": 5,
         "name": "Susan",
         "age": 40,
-        "gender": "F"
+        "gender": "Female / woman"
     },
     {
         "id": 6,
@@ -39,12 +39,6 @@
         "id": 7,
         "name": "Carolina Erazo",
         "age": 28,
-        "gender": "F"
-    },
-    {
-        "id": 8,
-        "name": "Carolina Erazo",
-        "age": 28,
-        "gender": "F"
+        "gender": "Female / woman"
     }
 ]

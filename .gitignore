@@ -19,9 +19,6 @@ practice.ipynb
 temp.py
 temp.ipynb
 temp.txt
-<<<<<<< HEAD
-temp.py
-=======
 temp.csv
 
 ### Private files
@@ -31,4 +28,6 @@ mySecrets.py
 # log.log
 info.log
 *.log
->>>>>>> 9f74cdf9a4b8cf977e631f1271196311f6300f08
+
+# Videos
+.mp4

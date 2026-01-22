@@ -31,3 +31,6 @@ info.log
 
 # Videos
 .mp4
+
+experiments/csv_vs_excel/output/*csv
+experiments/csv_vs_excel/output/*xlsx

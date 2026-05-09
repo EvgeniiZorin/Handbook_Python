@@ -1,3 +1,0 @@
-
-def modf():
-    print('imported!')

@@ -1,7 +1,9 @@
 import argparse
 import pandas as pd
 
-parser = argparse.ArgumentParser(description="Run the program like this: `python cmd_line_prog.py -n 'Jack Jones' -a 10 -i 'whatever_file.csv'` ")
+parser = argparse.ArgumentParser(
+    description = "Run the program like this: `python cmd_line_prog.py -n 'Jack Jones' -a 10 -i 'whatever_file.csv'` "
+)
 parser.add_argument(
     '-n', 
     '--name', 
@@ -45,7 +47,7 @@ group.add_argument(
 group.add_argument(
     '-q', 
     '--quiet',
-    action = 'store_true'
+    action = 'store_true' # default = True, but if you pass in the argument, it becomes False
 )
 
 # Here, if you don't specify any argument, it will look for the passed arguments
